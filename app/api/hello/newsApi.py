@@ -14,6 +14,7 @@ load_dotenv()
 # not just one topic, maybe give option?
 #currently sorting by popularity
 
+
 NEWS_API_KEY = os.getenv("NEWS_API_KEY")
 urlCall = ('https://newsapi.org/v2/everything?'
        'q=Artsakh&'
