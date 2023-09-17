@@ -8,7 +8,7 @@ const PostPreview = (article: Article) => {
   return (
     <div className="p-4 transition duration-200 transform hover:translate-y-2">
       <div className="hover:opacity-80">
-        <Link href={`/${article.url}`}>
+        <Link href={`${article.url}`}>
           {article.urlToImage && ( // Conditional rendering for the image
             <Image src={article.urlToImage} alt="" width="800" height="400" />
           )}
