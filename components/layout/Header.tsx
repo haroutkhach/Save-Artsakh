@@ -13,7 +13,7 @@ const Header = () => {
           Home
         </Link>
         <Link key="news" href="/news" className="text-xl " aria-label="news">
-          News
+          Live Feed
         </Link>
         <Link key="SA" href="/" className="text-4xl " aria-label="NS Thingy">
          SA

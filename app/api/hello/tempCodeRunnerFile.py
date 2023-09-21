@@ -1,17 +1,44 @@
-if response.status_code == 200:
-    data = response.json()  # Parse the JSON response
-    # Filter out articles with the title "removed" and extract URLs from the remaining articles
-    articles = [article for article in data["articles"] if article["title"] != "[Removed]"]
-    for article in articles:
-        if article["urlToImage"] is None:
-            # Replace it with the URL from the previous API call
-            print("hi")
-            article["urlToImage"] = exported_image_url  # Replace 'imageUrl' with the actual variable name
-        size = get_image_size(article["urlToImage"])
-        if size is not None:
-            arr.append(size)
-    print(arr)
-    domains = [urlparse(article["urlToImage"]).netloc for article in articles[:50]]
-    domains = [domain.decode("utf-8") if isinstance(domain, bytes) else domain for domain in domains]  # Convert bytes to strings if necessary
-else:
-    print(f"Request failed with status code: {response.status_code}")
+
+# if response.status_code == 200:
+#     data = response.json()  # Parse the JSON response
+
+#     # Initialize a set to keep track of unique article titles
+#     unique_titles = set()
+    
+#     articles = []
+    
+#     for article in data["articles"]:
+#         if article["title"] != "[Removed]" and article["title"] not in unique_titles:
+#             articles.append(article)
+#             unique_titles.add(article["title"])
+    
+#     for article in articles:
+#         if article["urlToImage"] is None or (isinstance(article["urlToImage"], str) and article["urlToImage"].endswith(".webp")):
+#             keyword = extractKeywords(article["title"], 1)
+#             article["urlToImage"] = getImageURL(keyword)
+
+#     domains = [urlparse(article["urlToImage"]).netloc for article in articles[:50]]
+#     domains = [domain.decode("utf-8") if isinstance(domain, bytes) else domain for domain in domains]  # Convert bytes to strings if necessary
+# else:
+#     print(f"Request failed with status code: {response.status_code}")
+
+
+
+# # Write filtered articles to the "newsArticles.json" file
+# if response.status_code == 200:
+#     # Define the file path where you want to save the articles in JSON format
+#     file_path = 'app/news/newsArticles.json'
+#     # Open the file in write mode and write the filtered articles as JSON
+#     with open(file_path, 'w', encoding='utf-8') as file:
+#         file.truncate(0)  # Clear the file's contents
+#         json.dump(articles[:50], file, ensure_ascii=False, indent=4)
+
+#     # Extract domain names from the filtered articles and save to "allowedDomains.json"
+#     filtered_domains = [urlparse(article["urlToImage"]).netloc for article in articles[:50]]
+#     filtered_domains = [domain.decode("utf-8") if isinstance(domain, bytes) else domain for domain in filtered_domains]
+#     with open('app/news/allowedDomains.json', 'w') as json_file:
+#         json.dump(filtered_domains, json_file)
+# else:
+#     print(f'Request failed with status code {response.status_code}')
+
+

@@ -13,16 +13,17 @@ load_dotenv()
 # date changes automatically
 # not just one topic, maybe give option?
 #currently sorting by popularity
-
+# add nagorno-karabakh
 NEWS_API_KEY = os.getenv("NEWS_API_KEY")
 urlCall = ('https://newsapi.org/v2/everything?'
        'q=Artsakh&'
-       'from=2023-08-14&' 
+       'from=2023-08-30&' 
        'language=en&'
        'sortBy=popularity&'
        f'apiKey={NEWS_API_KEY}')
 
-response = requests.get(urlCall)
+headers = {'Accept': 'application/json', 'User-Agent': 'Your User Agent', 'Connection': 'keep-alive'}
+response = requests.get(urlCall, headers=headers)
 # Take all of this and put it into a separate file, send just the response
 
 if response.status_code == 200:
