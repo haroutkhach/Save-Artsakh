@@ -1,6 +1,19 @@
 [
     {
         "source": {
+            "id": "abc-news",
+            "name": "ABC News"
+        },
+        "author": "Patrick Reevell",
+        "title": "Azerbaijan says it's halting offensive on disputed Armenian enclave",
+        "description": "Azerbaijan say it's ending offensive on the enclave Nagorno-Karabakh after ethnic Armenian forces agreed to surrender.",
+        "url": "https://abcnews.go.com/International/azerbaijan-halting-offensive-disputed-armenian-enclave-nagorno-karabakh/story?id=103335801",
+        "urlToImage": "https://i.abcnewsfe.com/a/3416a513-0ebf-4842-a79c-2422d6e139b5/yeve_hpMain_20230920-083151_16x9.jpg?w=992",
+        "publishedAt": "2023-09-20T12:58:05Z",
+        "content": "LONDON -- Azerbaijan has announced it is suspending its military offensive in Nagorno-Karabakh, after ethnic Armenian authorities in the disputed enclave agreed to lay down their arms in an apparent … [+5202 chars]"
+    },
+    {
+        "source": {
             "id": null,
             "name": "Quartz India"
         },
@@ -11,6 +24,71 @@
         "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/12ffe290c75f149e3dd7164b269bc8fa.jpg",
         "publishedAt": "2023-09-09T13:18:04Z",
         "content": "YEREVAN, Armenia (AP) Lawmakers in Nagorno-Karabakh, a breakaway Armenian-populated region of Azerbaijan, voted to elect a new separatist president on Saturday in a move that was strongly condemned b… [+2564 chars]"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "Al Jazeera",
+        "title": "Azerbaijan and ethnic Armenian forces reach Nagorno-Karabakh ceasefire deal",
+        "description": "A ceasefire agreement has been settled between Armenian forces and Azerbaijani army in Nagorno-Karabakh.",
+        "url": "https://www.aljazeera.com/news/2023/9/20/azerbaijan-and-ethnic-armenian-forces-reach-nagorno-karabakh-ceasefire-deal",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/09/000_8W92BR.jpg?resize=1200%2C675",
+        "publishedAt": "2023-09-20T10:47:54Z",
+        "content": "Ethnic Armenian forces in Nagorno-Karabakh say they have agreed to a Russian proposal for a ceasefire, a day after Azerbaijan began an offensive to take control of the contested enclave and demanded … [+2460 chars]"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "Mansur Mirovalev",
+        "title": "Russia’s role in Nagorno-Karabakh questioned after renewed tensions",
+        "description": "Azerbaijan and Armenia have reached a deal after a brief offensive in Nagorno-Karabakh. What lies ahead?",
+        "url": "https://www.aljazeera.com/news/2023/9/20/russias-role-in-nagorno-karabakh-questioned-after-renewed-tensions",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/09/2023-09-20T114226Z_1553591977_RC29C3A2S973_RTRMADP_3_ARMENIA-AZERBAIJAN-1695215339.jpg?resize=1920%2C1440",
+        "publishedAt": "2023-09-20T14:26:58Z",
+        "content": "After a sleepless night spent monitoring news from Nagorno-Karabakh and watching videos of shelled buildings and weeping women, Tigran says he knows who the main culprit is.\r\nThe ethnic Armenian man,… [+8024 chars]"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "Al Jazeera",
+        "title": "What to know about the Nagorno-Karabakh ceasefire",
+        "description": "The surprise announcement averts further escalation of the conflict, which already claimed dozens of lives.",
+        "url": "https://www.aljazeera.com/news/2023/9/20/whats-happening-in-nagorno-karabakh-between-azerbaijan-and-armenia",
+        "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/09/image-23.jpg?resize=1200%2C675",
+        "publishedAt": "2023-09-20T15:02:05Z",
+        "content": "Separatist Armenian forces in Nagorno-Karabakh have agreed to the terms of a ceasefire proposed by Russian peacekeepers, after suffering a series of battlefield setbacks at the hands of the Azerbaija… [+7614 chars]"
+    },
+    {
+        "source": {
+            "id": "cbc-news",
+            "name": "CBC News"
+        },
+        "author": "Katia Galati",
+        "title": "A Canadian-Armenian visited his dad's grave in a contested region. Now he's stuck in a humanitarian crisis",
+        "description": "For nearly nine months, Adranik Pogosian has been trapped in a small village in the middle of what Canada calls a \"deteriorating humanitarian situation.” He entered the contested region of Nagorno-Karabakh in late November 2022. He's still there.",
+        "url": "https://www.cbc.ca/news/world/nagorno-karabakh-blockade-crisis-1.6960811",
+        "urlToImage": "https://i.cbc.ca/1.6964289.1694542463!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/lachin-corridor.jpg",
+        "publishedAt": "2023-09-12T20:00:00Z",
+        "content": "For nearly nine months, Adranik Pogosian, 31, has been trapped in the middle of what Canada calls a \"deteriorating humanitarian situation\r\n.\"\r\nPogosian, who was born in Gander, N.L., and grew up in t… [+6156 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Forbes"
+        },
+        "author": "Dr. Ewelina U. Ochab, Contributor, \n Dr. Ewelina U. Ochab, Contributor\n https://www.forbes.com/sites/ewelinaochab/",
+        "title": "After Months Of Lachin Corridor Blockage, Azerbaijan Launches New Military Attack On Nagorno-Karabakh",
+        "description": "On September 19, 2023, Azerbaijan launched a military attack on Nagorno-Karabakh.  As Azerbaijan claims, the attack is an “anti-terrorist measure.”",
+        "url": "https://www.forbes.com/sites/ewelinaochab/2023/09/20/after-months-of-lachin-corridor-blockage-azerbaijan-launches-new-military-attack-on-nagorno-karabakh/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/650ab7fbfbc04fccc6bba901/0x0.jpg?format=jpg&width=1200",
+        "publishedAt": "2023-09-20T15:43:56Z",
+        "content": "On September 19, 2023, Azerbaijan launched a military attack on Nagorno-Karabakh. As Azerbaijan claims, the attack is an anti-terrorist measure. According to reports, the attack, which included artil… [+4765 chars]"
     },
     {
         "source": {
@@ -40,16 +118,81 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "Metafilter.com"
+            "id": "rt",
+            "name": "RT"
         },
-        "author": "kmt",
-        "title": "Ethnic cleansing in Nagorno-Karabakh, 2022 - present",
-        "description": "\"As I pen down these words in my office at the Armenian Theological Seminary of the Holy See of Cilicia, it's heartrending to acknowledge that over 120,000 Armenian individuals, including children in Artsakh (Nagorno-Karabagh) within the South Caucasus, are f…",
-        "url": "https://www.metafilter.com/200448/Ethnic-cleansing-in-Nagorno-Karabakh-2022-present",
-        "urlToImage": "http://cdn.mefi.us/images/mefi/apple-touch-icon.png",
-        "publishedAt": "2023-08-25T08:44:43Z",
-        "content": "All these processes have shown that Azerbaijan continues to use the opportunities of impunity. Azerbaijan can only be restrained by painful and substantial sanctions. In this case the question is whi… [+1079 chars]"
+        "author": "RT",
+        "title": "Nagorno-Karabakh conflict: What is Russia’s position?",
+        "description": "Armenia appeared to alienate its traditional ally Russia before a new conflict erupted in Nagorno-Karabakh Read Full Article at RT.com",
+        "url": "https://www.rt.com/russia/583264-karabakh-conflict-moscow-position/",
+        "urlToImage": "https://mf.b37mrtl.ru/files/2023.09/article/650aa6ad203027792a23d2d9.jpg",
+        "publishedAt": "2023-09-20T10:05:38Z",
+        "content": "Violence has erupted again in the disputed region of Nagorno-Karabakh, marking the latest flare-up in decades-long tensions between Caucasus rivals Armenia and Azerbaijan. \r\nNagorno-Karabakh is a sel… [+4839 chars]"
+    },
+    {
+        "source": {
+            "id": "rt",
+            "name": "RT"
+        },
+        "author": "RT",
+        "title": "‘An explosive situation’ near Russia’s southern borders: Could a new war erupt between Armenia and Azerbaijan?",
+        "description": "Tensions between Baku and Yerevan mount again, against a background of increasing US and EU activity in the region Read Full Article at RT.com",
+        "url": "https://www.rt.com/russia/583000-war-armenia-azerbaijan-eu-us/",
+        "urlToImage": "https://mf.b37mrtl.ru/files/2023.09/article/6504150d2030270d3c5e5799.jpg",
+        "publishedAt": "2023-09-15T14:56:48Z",
+        "content": "The situation in the South Caucasus is once again becoming tense, as the long-term conflict between Armenia and Azerbaijan over Karabakh is on the verge of escalating into another hot war.\r\nAlmost ev… [+13140 chars]"
+    },
+    {
+        "source": {
+            "id": "the-american-conservative",
+            "name": "The American Conservative"
+        },
+        "author": "Sohrab Ahmari",
+        "title": "If Artsakh Falls",
+        "description": "The blockade of Nagorno-Karabakh is the culmination of this campaign. If effected in full, that policy will be tantamount to ethnic cleansing.\nThe post If Artsakh Falls appeared first on The American Conservative.",
+        "url": "https://www.theamericanconservative.com/if-artsakh-falls/",
+        "urlToImage": "https://www.theamericanconservative.com/wp-content/uploads/2023/09/shutterstock_1822511873-scaled-e1695072255781.jpg",
+        "publishedAt": "2023-09-19T04:05:00Z",
+        "content": "On Monday, the Red Cross delivered 23 tons of flour to Nagorno-Karabakh, an ethnic-Armenian territory that has now spent the better part of a year under an Azerbaijani blockade. The territorys 120,00… [+5407 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "UPI.com"
+        },
+        "author": "Clyde Hughes",
+        "title": "Azerbaijan starts 'anti-terrorism' campaign in Nagorno-Karabakh region",
+        "description": "Azerbaijan announced on Tuesday that it has opened an \"anti-terrorism\" campaign in Armenian-held positions in the disputed region of Nagorno-Karabakh.",
+        "url": "https://www.upi.com/Top_News/World-News/2023/09/19/Azerbaijan-anti-terrorism-bombing-Armenia/9491695125384/",
+        "urlToImage": "https://media.zenfs.com/en/united_press_international_articles_356/064fd00e760a4bffdeabf0ec31d1945a",
+        "publishedAt": "2023-09-19T13:18:44Z",
+        "content": "Sept. 19 (UPI) -- Azerbaijan announced on Tuesday that it has opened an \"anti-terrorism\" campaign in Armenian-held positions in the disputed region of Nagorno-Karabakh.\r\nBombing in the regional capit… [+1445 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Reuters",
+        "title": "Thousands of Armenians in Karabakh mass at airport after ceasefire deal",
+        "description": "Thousands of Armenians in Nagorno-Karabakh on Wednesday massed at the airport where some Russian peacekeepers are based after separatist forces agreed to a...",
+        "url": "https://news.yahoo.com/thousands-armenians-karabakh-mass-airport-134340772.html",
+        "urlToImage": "https://media.zenfs.com/en/reuters.com/b5293848067602f04b631003984db8bf",
+        "publishedAt": "2023-09-20T13:43:40Z",
+        "content": "YEREVAN (Reuters) - Thousands of Armenians in Nagorno-Karabakh on Wednesday massed at the airport where some Russian peacekeepers are based after separatist forces agreed to a ceasefire which would s… [+1479 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Reuters",
+        "title": "Explainer-What is happening between Armenia and Azerbaijan over Nagorno-Karabakh?",
+        "description": "Armenia and Azerbaijan have already fought two wars over Karabakh in the three decades since the Soviet Union they were both members of collapsed.  WHAT IS...",
+        "url": "https://news.yahoo.com/explainer-happening-between-armenia-azerbaijan-114344109.html",
+        "urlToImage": "https://media.zenfs.com/en/reuters.com/7b5b132f80f4d9b50eb2afb524e2bd75",
+        "publishedAt": "2023-09-19T11:43:44Z",
+        "content": "(Reuters) - Azerbaijan launched \"anti-terrorist activities\" in the Nagorno-Karabakh region on Tuesday, saying it wanted to restore constitutional order and drive out what it said were Armenian troops… [+3899 chars]"
     },
     {
         "source": {
@@ -63,6 +206,32 @@
         "urlToImage": "https://first-heritage-foundation.s3.amazonaws.com/live_files/2023/09/GettyImages-1554516157-scaled.jpg",
         "publishedAt": "2023-09-06T20:55:25Z",
         "content": "Republican New Jersey Rep. Chris Smith called on his colleagues Wednesday to recognize that 120,000 Armenian Christians living in Nagorno-Karabakh are facing extinction. \r\nDelay is denial, Smith, who… [+5646 chars]"
+    },
+    {
+        "source": {
+            "id": "abc-news-au",
+            "name": "ABC News (AU)"
+        },
+        "author": "ABC News",
+        "title": "Blasts in Karabakh as Azerbaijan launches 'anti-terrorist' military operation",
+        "description": "Fears of a fresh war have been building in recent months, with Armenia accusing Azerbaijan of a troop build-up and decrying a blockade of its only land link to Nagorno-Karabakh.",
+        "url": "https://www.abc.net.au/news/2023-09-20/blasts-in-karabakh-as-azerbaijan-launches-anti-terrorist-militar/102876820",
+        "urlToImage": "https://live-production.wcms.abc-cdn.net.au/775cf1c86b2af75512b6a111e8ec6aeb?impolicy=wcms_crop_resize&cropH=1001&cropW=1780&xPos=137&yPos=0&width=862&height=485",
+        "publishedAt": "2023-09-19T14:08:02Z",
+        "content": "Azerbaijan has launched a military operation in the breakaway Nagorno-Karabakh region and demanded the total withdrawal of Armenian forces from the disputed mountainous territory as a precondition fo… [+5318 chars]"
+    },
+    {
+        "source": {
+            "id": "abc-news-au",
+            "name": "ABC News (AU)"
+        },
+        "author": "ABC News",
+        "title": "Dozens killed before Azerbaijan and Armenian forces reach ceasefire deal for breakaway region",
+        "description": "Azerbaijan and Armenian forces reach a ceasefire agreement to end two days of fighting in the separatist Nagorno-Karabakh region",
+        "url": "https://www.abc.net.au/news/2023-09-20/azerbaijan-and-armenian-forces-reach-cease-fire-deal-for-breakaw/102881874",
+        "urlToImage": "https://live-production.wcms.abc-cdn.net.au/a5312acf5f8430f5c1ea2bcfd99d56f0?impolicy=wcms_crop_resize&cropH=1152&cropW=2048&xPos=0&yPos=0&width=862&height=485",
+        "publishedAt": "2023-09-20T13:39:04Z",
+        "content": "Azerbaijan and Armenian forces have reached a ceasefire agreement to end two days of fighting in the separatist Nagorno-Karabakh region that has been a flashpoint for decades, officials on both sides… [+5577 chars]"
     },
     {
         "source": {
@@ -106,15 +275,93 @@
     {
         "source": {
             "id": null,
-            "name": "Radaronline.com"
+            "name": "Globalresearch.ca"
         },
-        "author": "Samantha Benitz",
-        "title": "'Your People Need You': Protestors March Outside Kim Kardashian's Home, Wave Armenian Flags and Demand Her to Help Resolve Humanitarian Crisis",
-        "description": "Droves of Armenian-American protestors lined the streets outside of Kim Kardashian's home to demand she use her fame and influence to help resolve a humanitarian crisis.",
-        "url": "https://radaronline.com/p/kim-kardashian-protesters-outside-hidden-hills-home-armenian-flags-resolve-crisis/",
-        "urlToImage": "https://media.radaronline.com/brand-img/MO77hORz3/1200x628/kim-kardashian-protesters-outside-hidden-hills-home-armenian-flags-resolve-crisis-pp-1693247993351.jpg",
-        "publishedAt": "2023-08-28T19:15:00Z",
-        "content": "\"Kim, Speak up for Artsakh,\" one sign read. \"Kim, Your People Need You,\" another stated.\r\nA big rig and a number of other cars were parked on the road alongside the group, which pleaded with Kardashi… [+469 chars]"
+        "author": "Abraham Gaspayan",
+        "title": "Armenia’s Prime Minister Pashinyan’s “Failed Policy to Remove Russia has No NATO Guarantee”",
+        "description": "All Global Research articles can be read in 51 languages by activating the Translate Website button below the author’s name.\nTo receive Global Research’s Daily Newsletter (selected articles), click here.\nClick the share button above to email/forward this arti…",
+        "url": "https://www.globalresearch.ca/armenian-prime-minister-pashinyan-failed-policy-remove-russia-no-nato-guarantee/5832443",
+        "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2023/09/Screenshot_20230913_172820-1080x694.jpg",
+        "publishedAt": "2023-09-14T14:29:14Z",
+        "content": "All Global Research articles can be read in 51 languages by activating the Translate Website button below the authors name.\r\nTo receive Global Researchs Daily Newsletter (selected articles), click he… [+10996 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Daily Caller"
+        },
+        "author": "Jake Smith",
+        "title": "Country Accused Of ‘Genocide’ Begins Military Offensive, Shelling Against Armenia",
+        "description": "Azerbaijan launched military action and &quot;anti-terrorist&quot; operations in Nagorno-Karabakh, a region of Asia housing 120,000 Armenians.",
+        "url": "https://dailycaller.com/2023/09/19/country-accused-genocide-begins-military-offensive-shelling-armenia/",
+        "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2023/09/GettyImages-1245836870-scaled-e1695134279545.jpg",
+        "publishedAt": "2023-09-19T15:30:10Z",
+        "content": "Azerbaijan launched military action and “anti-terrorist” operations in Nagorno-Karabakh, a region of Asia housing roughly 120,000 Armenians, according to a statement from the country’s defense minist… [+3660 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Daily Caller"
+        },
+        "author": "Jake Smith",
+        "title": "In Bid To Ditch Russian Gas, Europe Is Cozying Up To Another Warlike Nation Attacking Disputed Territory",
+        "description": "In a bid to shift away from dependence on Russian oil and gas, the European Union (EU) has started importing gas from other international suppliers.",
+        "url": "https://dailycaller.com/2023/09/19/europe-cozying-up-another-warlike-nation-attacking-disputed-territory/",
+        "urlToImage": "https://cdn01.dailycaller.com/wp-content/uploads/2023/09/GettyImages-2615069-e1695150013629.jpg",
+        "publishedAt": "2023-09-19T20:10:12Z",
+        "content": "In a bid to shift away from dependence on Russian oil and gas, the European Union (EU) has started importing gas from other international suppliers, including Azerbaijan, a country now attacking a re… [+3747 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "The Boston Globe"
+        },
+        "author": "Ivan Nechepurenko",
+        "title": "Azerbaijan begins a military operation in Nagorno-Karabakh",
+        "description": "TBILISI, Georgia — Azerbaijan said Tuesday that it had launched a new military operation against an Armenian enclave inside its territory, raising fears of an expanding armed conflict in a fragile region in which the interests of Russia, Turkey, and Western c…",
+        "url": "https://www.bostonglobe.com/2023/09/19/world/azerbaijan-begins-military-operation-nagorno-karabakh/",
+        "urlToImage": "https://www.bostonglobe.com/pf/resources/images/logo-bg.jpg?d=430",
+        "publishedAt": "2023-09-19T23:04:25Z",
+        "content": "Authorities in the Nagorno-Karabakh region said in a statement that 25 people two civilians and the rest military service members had died as a result of the attack. They posted a video from a hospit… [+5492 chars]"
+    },
+    {
+        "source": {
+            "id": "cbc-news",
+            "name": "CBC News"
+        },
+        "author": null,
+        "title": "Azerbaijan shelling its Nagorno-Karabakh region in latest escalation with Armenians",
+        "description": "Azerbaijan launched \"anti-terrorist activities\" in the Nagorno-Karabakh region on Tuesday, saying it wanted to restore constitutional order and drive out what it said were Armenian troops, a move that could foreshadow a new war.",
+        "url": "https://www.cbc.ca/news/world/azerbaijan-armenia-nagorno-karabakh-1.6971115",
+        "urlToImage": "https://i.cbc.ca/1.6971133.1695126438!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/armenia-azerbaijan-karabakh.JPG",
+        "publishedAt": "2023-09-19T13:13:15Z",
+        "content": "Azerbaijan launched \"anti-terrorist activities\" in the Nagorno-Karabakh region on Tuesday, saying it wanted to restore constitutional order and drive out what it said were Armenian troops, a move tha… [+5702 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "International Business Times"
+        },
+        "author": "AFP News",
+        "title": "US Senator Urges Sanctions On Azerbaijan To Prevent 'Genocide'",
+        "description": "A top senator on Tuesday urged the United States to impose sanctions on Azerbaijan's leader, accusing him of starting a campaign of \"genocide\" against an ethnic Armenian enclave, charges rejected by Baku.",
+        "url": "https://www.ibtimes.com/us-senator-urges-sanctions-azerbaijan-prevent-genocide-3711537",
+        "urlToImage": "https://d.ibtimes.com/en/full/4485570/us-senator-robert-menendez-speaks-visit-quito-april-10-2023.jpg",
+        "publishedAt": "2023-09-12T16:30:32Z",
+        "content": "A top senator on Tuesday urged the United States to impose sanctions on Azerbaijan's leader, accusing him of starting a campaign of \"genocide\" against an ethnic Armenian enclave, charges rejected by … [+2563 chars]"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Nagorno-Karabakh: Conflict between Azerbaijan and Armenians explained",
+        "description": "Nagorno-Karabakh is at the heart of the long-running conflict between ethnic Armenians and Azerbaijanis.",
+        "url": "https://www.bbc.co.uk/news/world-europe-66852070",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0426/production/_131126010_nagornocar.jpg",
+        "publishedAt": "2023-09-19T18:20:27Z",
+        "content": "Azerbaijan says it has begun a military operation in the breakaway region of Nagorno-Karabakh.\r\nThe territory is recognised internationally as part of Azerbaijan but large areas of it have been contr… [+6473 chars]"
     },
     {
         "source": {
@@ -131,6 +378,19 @@
     },
     {
         "source": {
+            "id": "nbc-news",
+            "name": "NBC News"
+        },
+        "author": "Reuters",
+        "title": "Azerbaijan pounds Karabakh for a 2nd day as U.S, Russia urge against spiral into war",
+        "description": "Azerbaijan pounded Nagorno-Karabakh on Wednesday, killing at least 32 according to Armenia and wounding many more in the breakaway region controlled by ethnic Armenians, despite calls from Russia and the United States to halt the spiral into war.",
+        "url": "https://www.nbcnews.com/news/world/azerbaijan-pounds-nagorno-karabakh-us-russia-warn-spiral-war-rcna107943",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-09/230920-azerbaijan-mb-0954-9a8e85.jpg",
+        "publishedAt": "2023-09-20T09:01:12Z",
+        "content": "Azerbaijan pounded Nagorno-Karabakh on Wednesday, killing at least 32 according to Armenia and wounding many more in the breakaway region controlled by ethnic Armenians, despite calls from Russia and… [+4800 chars]"
+    },
+    {
+        "source": {
             "id": "cnn",
             "name": "CNN"
         },
@@ -141,6 +401,32 @@
         "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230831122548-06-nagorno-karabakh-blockade-armenia-azerbaijan.jpg?c=16x9&q=w_800,c_fill",
         "publishedAt": "2023-09-06T09:43:58Z",
         "content": "Ani Kirakosyani found out she was pregnant a month after the blockade of Nagorno-Karabakh began.\r\nIn her village of Haterk, tucked in a valley between the Caucasus hills, food supplies ran out quickl… [+10861 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Tim Lister, Gianluca Mezzofiore, Christian Edwards, Anna Chernova",
+        "title": "Azerbaijan launches operation against Armenian forces in Nagorno-Karabakh",
+        "description": "Azerbaijan's defense ministry said Tuesday it had begun an \"anti-terrorist\" campaign in the disputed Nagorno-Karabakh region, as Armenian media and local authorities reported heavy bombardment of the regional capital of Stepanakert.",
+        "url": "https://www.cnn.com/2023/09/19/asia/armenia-azerbaijan-nagorno-karabakh-bombardment-intl/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230919134516-01-nagorno-karabakh-unrest-091923.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2023-09-19T13:17:41Z",
+        "content": "Azerbaijans defense ministry said Tuesday it had begun an anti-terrorist campaign in the disputed Nagorno-Karabakh region, as Armenian media and local authorities reported heavy bombardment of the re… [+5133 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Christian Edwards",
+        "title": "Why have there been clashes over control of Nagorno-Karabakh?",
+        "description": "A ceasefire has been agreed in the disputed region of Nagorno-Karabakh, a day after Azerbaijan launched a military offensive against ethnic Armenian forces.",
+        "url": "https://www.cnn.com/2023/09/20/asia/azerbaijan-armenia-nagorno-karabakh-explainer-intl/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230919212131-01-nagorno-karabakh-0919.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2023-09-20T13:39:33Z",
+        "content": "A ceasefire has been agreed in the disputed region of Nagorno-Karabakh, a day after Azerbaijan launched a military offensive against ethnic Armenian forces.\r\nWhether this leads to a lasting peace is … [+7292 chars]"
     },
     {
         "source": {
@@ -158,28 +444,93 @@
     {
         "source": {
             "id": null,
-            "name": "Open Democracy"
+            "name": "FRANCE 24 English"
         },
-        "author": "Lucy Martirosyan, Siranush Sargsyan",
-        "title": "Queues for bread and no formula milk: Motherhood in blockaded Nagorno-Karabakh",
-        "description": "Three Armenian mothers tell of their struggles after eight months living under Azerbaijan’s restrictions",
-        "url": "https://www.opendemocracy.net/en/5050/mothers-nagorno-karabakh-artsakh-armenia-azerbaijan-children/",
-        "urlToImage": "https://cdn2.opendemocracy.net/media/images/women_artsakh.2e16d0ba.fill-1200x630.jpg",
-        "publishedAt": "2023-08-22T16:46:19Z",
-        "content": "Although the ICRC said it was continuing to evacuate patients from Nagorno-Karabakh to Armenia for treatment, several dialysis patients are reportedly afraid to leave their homes after Azerbaijani au… [+2096 chars]"
+        "author": "NEWS WIRES",
+        "title": "Karabakh separatists reach agreement with Azerbaijan on humanitarian supplies delivery",
+        "description": "Armenian separatists in Azerbaijan's breakaway enclave of Nagorno-Karabakh on Sunday agreed on delivery of humanitarian supplies through the territory controlled by Baku, marking the first step towards de-escalation in the volatile region.",
+        "url": "https://www.france24.com/en/asia-pacific/20230917-karabakh-separatists-reach-agreement-with-azerbaijan-on-humanitarian-supplies-delivery",
+        "urlToImage": "https://s.france24.com/media/display/37ded44e-5595-11ee-9935-005056bf30b7/w:1280/p:16x9/000_33U262G.jpg",
+        "publishedAt": "2023-09-17T20:11:32Z",
+        "content": "Armenian separatists in Azerbaijan's breakaway enclave of Nagorno-Karabakh on Sunday agreed on delivery of humanitarian supplies through the territory controlled by Baku, marking the first step towar… [+1991 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "EURACTIV"
+        },
+        "author": "Georgi Gotev",
+        "title": "Armenians in Karabakh surrender, many seek to leave the enclave",
+        "description": "Azerbaijan said on Wednesday (20 September) it had halted military action in its breakaway region of Nagorno-Karabakh after Armenian separatist forces there surrendered and agreed to a ceasefire whose terms signalled the area would return to Baku's control.",
+        "url": "https://www.euractiv.com/section/azerbaijan/news/armenians-in-karabakh-surrender-many-seek-to-leave-the-enclave/",
+        "urlToImage": "https://www.euractiv.com/wp-content/uploads/sites/2/2023/09/Armenians-leave-Karabakh-800x450.jpg",
+        "publishedAt": "2023-09-20T15:09:40Z",
+        "content": "Azerbaijan said on Wednesday (20 September) it had halted military action in its breakaway region of Nagorno-Karabakh after Armenian separatist forces there surrendered and agreed to a ceasefire whos… [+4093 chars]"
     },
     {
         "source": {
             "id": "newsweek",
             "name": "Newsweek"
         },
-        "author": "Alex Galitsky and Gev Iskajyan",
-        "title": "U.S. Diplomacy is Failing Armenia | Opinion",
-        "description": "The Biden administration's approach to Azerbaijan could not stand more diametrically opposed to its strategy toward Russia's invasion of Ukraine.",
-        "url": "https://www.newsweek.com/us-diplomacy-failing-armenia-opinion-1819248",
-        "urlToImage": "https://d.newsweek.com/en/full/2268845/stephen-bohjalian-holds-sign.jpg",
-        "publishedAt": "2023-08-14T10:30:01Z",
-        "content": "After years of diplomatic dormancy, the U.S. has accelerated its efforts to facilitate a peace deal between Armenia and Azerbaijan. But short of ensuring a just peace, the only thing the Washington-b… [+6439 chars]"
+        "author": "Ellie Cook",
+        "title": "Russian Ally Forced to Give Up Disputed Enclave as Ceasefire Declared",
+        "description": "The ceasefire in Nagorno-Karabakh on Wednesday will mean the \"complete cessation of hostilities,\" Moscow said.",
+        "url": "https://www.newsweek.com/nagorno-karabakh-ceasefire-russia-peacekeepers-azerbaijan-armenia-1828402",
+        "urlToImage": "https://d.newsweek.com/en/full/2284326/nagorno-karabakh-ceasefire.jpg",
+        "publishedAt": "2023-09-20T11:38:23Z",
+        "content": "Ethnic Armenians in control of Nagorno-Karabakh agreed to a Moscow-proposed ceasefire on Wednesday, one day after Azerbaijani forces launched an offensive in the breakaway region.\r\n\"The authorities o… [+3293 chars]"
+    },
+    {
+        "source": {
+            "id": "newsweek",
+            "name": "Newsweek"
+        },
+        "author": "David Brennan",
+        "title": "Ukraine Warns Russia's Allies: Expect 'Stab in The Back' from Moscow",
+        "description": "Ukrainian officials framed Russia's failure to prevent a new round of Armenia-Azerbaijan conflict as proof of Moscow's fickle backing.",
+        "url": "https://www.newsweek.com/ukraine-warns-russia-allies-stab-back-moscow-armenia-azerbaijan-nagorno-karabakh-1828405",
+        "urlToImage": "https://d.newsweek.com/en/full/2284302/russian-peacekeepers-outside-stepanakert-nagorno-karabakh.jpg",
+        "publishedAt": "2023-09-20T11:36:10Z",
+        "content": "Ukrainian officials have warned Russian allies that Moscow will not come to their aid in times of crisis, as Armenia struggles against a fresh Azerbaijani assault on the disputed Nagorno-Karabakh reg… [+5502 chars]"
+    },
+    {
+        "source": {
+            "id": "newsweek",
+            "name": "Newsweek"
+        },
+        "author": "Tom O'Connor",
+        "title": "Azerbaijan Warns Armenia Will Be 'Isolated' Amid New Explosion of Violence",
+        "description": "\"Our hand of peace still hangs in the air,\" Azerbaijani Ambassador Khazar Ibrahim told Newsweek, but \"our other hand will always defend.\"",
+        "url": "https://www.newsweek.com/azerbaijan-warns-armenia-will-isolated-amid-new-explosion-violence-1828313",
+        "urlToImage": "https://d.newsweek.com/en/full/2284189/azerbaijan-strikes-alleged-armenia-position-nagorno-karabakh.jpg",
+        "publishedAt": "2023-09-20T02:03:09Z",
+        "content": "With a deadly new wave of violence rocking the post-Soviet South Caucasus, Azerbaijan's ambassador to the United States has told Newsweek that Armenia risks isolation as the top diplomat of an unreco… [+6841 chars]"
+    },
+    {
+        "source": {
+            "id": "newsweek",
+            "name": "Newsweek"
+        },
+        "author": "Isabel van Brugen",
+        "title": "'Artillery Shelling' Reported as Conflict Reignites in Russia's Backyard",
+        "description": "Azerbaijan has declared a new offensive in the the ethnic-Armenian controlled territory of Nagorno-Karabakh, escalating a decades-long dispute.",
+        "url": "https://www.newsweek.com/artillery-shelling-armenia-azerbaijan-nagorno-karabakh-fighting-russia-1828072",
+        "urlToImage": "https://d.newsweek.com/en/full/2283843/nagorno-karabakh.jpg",
+        "publishedAt": "2023-09-19T10:46:32Z",
+        "content": "Clashes were reported in the contested Nagorno-Karabakh region on Tuesday as Azerbaijan declared a new offensive in the the ethnic-Armenian controlled territory, escalating a decades-long dispute bet… [+1639 chars]"
+    },
+    {
+        "source": {
+            "id": "newsweek",
+            "name": "Newsweek"
+        },
+        "author": "Brendan Cole",
+        "title": "Where's Nagorno-Karabakh? Azerbaijan Eyes Russia Ally in 'Special Operation'",
+        "description": "Azerbaijan said that it started anti-terrorist operations in the enclave, which has been the scene of months of tension.",
+        "url": "https://www.newsweek.com/azerbaijan-armenia-russia-nagorno-karabakh-1828133",
+        "urlToImage": "https://d.newsweek.com/en/full/2283940/activists-nagorno-karabakh.jpg",
+        "publishedAt": "2023-09-19T16:47:00Z",
+        "content": "Azerbaijan has launched an offensive in the breakaway Nagorno-Karabakh territory, spurring calls for Russia, the EU and the U.S. to intervene and adding to instability diplomatically in a volatile Eu… [+5351 chars]"
     },
     {
         "source": {
@@ -196,16 +547,68 @@
     },
     {
         "source": {
-            "id": null,
-            "name": "The Conversation Africa"
+            "id": "newsweek",
+            "name": "Newsweek"
         },
-        "author": "Ronald Suny, Professor of History and Political Science, University of Michigan",
-        "title": "Nagorno-Karabakh blockade crisis: Choking of disputed region is a consequence of war and geopolitics",
-        "description": "The 120,000 residents of the disputed region are being deprived of food and medicines after a crucial link to Armenia was cut off by Azerbaijan.",
-        "url": "https://theconversation.com/nagorno-karabakh-blockade-crisis-choking-of-disputed-region-is-a-consequence-of-war-and-geopolitics-211717",
-        "urlToImage": "https://images.theconversation.com/files/543272/original/file-20230817-15-3hwelb.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop",
-        "publishedAt": "2023-08-18T12:38:23Z",
-        "content": "A Russian peacekeeper guards the Lachin corridor. TOFIK BABAYEV/AFP via Getty Images\r\nWars have consequences – and they are drastically different for the winners and losers. \n\nIn the South Caucasus, … [+7674 chars]"
+        "author": "David Brennan",
+        "title": "Armenia Protesters Target Russian Embassy with Anti-Putin Slogans",
+        "description": "\"This is all a consequence of Russia's policy,\" one protester said, as the Nagorno-Karabakh conflict with Azerbaijan reignited.",
+        "url": "https://www.newsweek.com/armenia-protesters-target-russian-embassy-anti-putin-slogans-1828380",
+        "urlToImage": "https://d.newsweek.com/en/full/2284268/armenia-riot-police-during-nagorno-karabakh-protests.jpg",
+        "publishedAt": "2023-09-20T09:14:46Z",
+        "content": "Demonstrations in the Armenian capital of Yerevan have converged on the Russian embassy, expressing anger at Moscow's failure to come to Armenia's aid in its latest hot conflict with neighboring Azer… [+5907 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Radio Free Europe/ Radio Liberty"
+        },
+        "author": "RFE/RL",
+        "title": "Ukrainian Lawmakers Approve Amended Bill On Asset Declarations",
+        "description": "Ukrainian lawmaker Yaroslav Zheleznyak wrote on Telegram on September 20 that parliament passed an amended bill on asset declarations after a previous text passed by the Verkhovna Rada in early September was vetoed by President Volodymyr Zelenskiy.",
+        "url": "https://www.rferl.org/a/ukraine-parliament-bill-asset-declaration-passed/32601457.html",
+        "urlToImage": "https://gdb.rferl.org/584C0B05-B1FE-4254-9575-27AB00C0322D_w1200_r1.jpg",
+        "publishedAt": "2023-09-20T13:55:40Z",
+        "content": "The Azerbaijani and ethnic Armenian sides have agreed an immediate cease-fire on the second day of a major flare-up in fighting over the territory of Nagorno-Karabakh after the de facto leadership of… [+8899 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Radio Free Europe/ Radio Liberty"
+        },
+        "author": "RFE/RL's Russian Service",
+        "title": "Blast Caused By Gas Leak Kills At Least Three In Residential Building In Moscow Region",
+        "description": "At least three people were killed after an explosion caused by a gas leak ripped through a nine-story apartment block in the city of Balashikha near Moscow, local officials said on September 20.",
+        "url": "https://www.rferl.org/a/russia-gas-leak-explosions-three-dead-moscow/32601103.html",
+        "urlToImage": "https://gdb.rferl.org/CB22D164-59CD-4701-8AA7-38AF136CFF40_w1200_r1.png",
+        "publishedAt": "2023-09-20T10:38:18Z",
+        "content": "The Azerbaijani and ethnic Armenian sides have agreed an immediate cease-fire on the second day of a major flare-up in fighting over the territory of Nagorno-Karabakh after the de facto leadership of… [+9441 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Radio Free Europe/ Radio Liberty"
+        },
+        "author": "RFE/RL",
+        "title": "UN Experts Warn That Lukashenka Decree Puts Belarusians Abroad At Risk",
+        "description": "UN experts warned on September 20 that a presidential decree in Belarus ordering its consulates to stop issuing passports puts hundreds of thousands of Belarusians abroad at risk, especially those living in exile.",
+        "url": "https://www.rferl.org/a/belarus-exiles-lukashenka-passport-decree-risk/32601152.html",
+        "urlToImage": "https://gdb.rferl.org/01000000-0a00-0242-ac52-08db55f07b2c_w1200_r1.jpg",
+        "publishedAt": "2023-09-20T11:10:43Z",
+        "content": "The Azerbaijani and ethnic Armenian sides have agreed an immediate cease-fire on the second day of a major flare-up in fighting over the territory of Nagorno-Karabakh after the de facto leadership of… [+9450 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "CounterPunch"
+        },
+        "author": "Chloe Atkinson",
+        "title": "Kim Kardashian Appeals to Biden to Prevent Another Armenian Genocide",
+        "description": "As 120,000 Armenians in Nagorno-Karabakh face near-certain death at the hands of the Azeri government, two unlikely advocates for their cause have come forth to raise awareness of the Armenian’s plight and to ask US President Joe Biden to do more for their hu…",
+        "url": "https://www.counterpunch.org/2023/09/14/kim-kardashian-appeals-to-biden-to-prevent-another-armenian-genocide/",
+        "urlToImage": "https://www.counterpunch.org/wp-content/uploads/2023/09/5ff06342-7a14-4ce6-89d2-c59a04deb676-680x463.jpg",
+        "publishedAt": "2023-09-14T05:17:46Z",
+        "content": "Ottoman military forces march Armenians to an execution site. Image courtesy of the Armenian National Institute.\r\nAs 120,000 Armenians in Nagorno-Karabakh face near-certain death at the hands of the … [+5487 chars]"
     },
     {
         "source": {
@@ -223,209 +626,27 @@
     {
         "source": {
             "id": null,
-            "name": "Catholicnewsagency.com"
-        },
-        "author": "Madeleine Teahan",
-        "title": "There are now 4 shrines dedicated to Mary, Mother of Persecuted Christians",
-        "description": "The world’s fourth shrine of Mary, Mother of Persecuted Christians, was dedicated at the Holy Martyrs Syriac Catholic Church in Kista, Northern Stockholm, in Sweden on July 22, 2023. / Photo courtesy of Father Benedict Kiely\n\nLondon, England, Sep 8, 2023 / 03…",
-        "url": "https://www.catholicnewsagency.com/news/255310/there-are-now-4-shrines-dedicated-to-mary-mother-of-persecuted-christians",
-        "urlToImage": "https://www.catholicnewsagency.com/storage/image/img-3037.jpeg?jpg",
-        "publishedAt": "2023-09-08T09:00:00Z",
-        "content": "The second shrine was dedicated at the Ordinariate Church of Our Lady of the Assumption and St. Gregory, in London, a year ago today, featuring an icon of Our Lady with the words Mother of the Persec… [+1877 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Protothema.gr"
+            "name": "Sky.com"
         },
         "author": null,
-        "title": "Starvation: “The Invisible Genocide Weapon” – Azerbaijan is committing genocide against the 120,000 Armenians",
-        "description": "Historically known as Artsakh, this ancient Armenian region was brought under Azerbaijani rule in 2020 | English News",
-        "url": "https://www.protothema.gr/english-news/article/1408921/starvation-the-invisible-genocide-weapon-azerbaijan-is-committing-genocide-against-the-120000-armenians/",
-        "urlToImage": "https://i1.prth.gr/images/640x360share/files/2023-09-05/hgfd.png",
-        "publishedAt": "2023-09-05T10:02:00Z",
-        "content": "Historically known as Artsakh, this ancient Armenian region was brought under Azerbaijani rule in 2020"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Biztoc.com"
-        },
-        "author": "reuters.com",
-        "title": "Karabakh separatist leader resigns amid deepening blockade crisis",
-        "description": "The separatist head of the breakaway region of Nagorno-Karabakh has resigned amid widespread food and fuel shortages resulting from an almost year-long blockade of the territory by Azerbaijan. Arayik Haratyunyan, who is an ethnic Armenian, said in a statement…",
-        "url": "https://biztoc.com/x/e299caa250d29029",
-        "urlToImage": "https://images.unsplash.com/photo-1622831984693-e1a97680e6b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTc2OTR8MHwxfHNlYXJjaHwxfHxrYXJhYmFraHxlbnwwfDB8fHwxNjk0NTQ3MTg4fDA&ixlib=rb-4.0.3&q=80&w=1080",
-        "publishedAt": "2023-09-02T22:08:11Z",
-        "content": "The separatist head of the breakaway region of Nagorno-Karabakh has resigned amid widespread food and fuel shortages resulting from an almost year-long blockade of the territory by Azerbaijan.Arayik … [+312 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Biztoc.com"
-        },
-        "author": "newsweek.com",
-        "title": "U.S. Diplomacy is Failing Armenia",
-        "description": "After years of diplomatic dormancy, the U.S. has accelerated its efforts to facilitate a peace deal between Armenia and Azerbaijan. But short of ensuring a just peace, the only thing the Washington-backed talks appear to have produced is the emboldenment of A…",
-        "url": "https://biztoc.com/x/61ea2ffa6d1269b9",
-        "urlToImage": "https://images.unsplash.com/photo-1526615735835-530c611a3d8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTc2OTR8MHwxfHNlYXJjaHwxfHxkaXBsb21hY3l8ZW58MHwwfHx8MTY5NDU0NzE4OXww&ixlib=rb-4.0.3&q=80&w=1080",
-        "publishedAt": "2023-08-14T10:40:02Z",
-        "content": "After years of diplomatic dormancy, the U.S. has accelerated its efforts to facilitate a peace deal between Armenia and Azerbaijan. But short of ensuring a just peace, the only thing the Washington-b… [+292 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Marketscreener.com"
-        },
-        "author": "Reuters",
-        "title": "Nagorno-Karabakh blockade chokes off supplies",
-        "description": "(marketscreener.com) STORY: Food, medicines and other essential supplies are getting harder to access for residents of Nagorno-Karabakh.https://www.marketscreener.com/quote/currency/US-DOLLAR-RUSSIAN-ROUBL-2370597/news/Nagorno-Karabakh-blockade-chokes-off-sup…",
-        "url": "https://www.marketscreener.com/quote/currency/US-DOLLAR-RUSSIAN-ROUBL-2370597/news/Nagorno-Karabakh-blockade-chokes-off-supplies-44630882/",
-        "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-        "publishedAt": "2023-08-16T16:33:21Z",
-        "content": "STORY: Food, medicines and other essential supplies are getting harder to access for residents of Nagorno-Karabakh.\r\n Now into its ninth month, the Azerbaijani blockade of the breakaway region has ca… [+2475 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Marketscreener.com"
-        },
-        "author": "Reuters",
-        "title": "Explainer-What is happening between Armenia and Azerbaijan over Nagorno-Karabakh?",
-        "description": "(marketscreener.com) Tensions are running high again between Azerbaijan and Armenia over the territory of Nagorno-Karabakh, which has been the cause of two wars between them in the past three decades.https://www.marketscreener.com/news/latest/Explainer-What-i…",
-        "url": "https://www.marketscreener.com/news/latest/Explainer-What-is-happening-between-Armenia-and-Azerbaijan-over-Nagorno-Karabakh--44813795/",
-        "urlToImage": "https://img.zonebourse.com/reuters/2023-03/2023-03-05T184225Z_1_LYNXMPEJ24084_RTROPTP_3_ARMENIA-AZERBAIJAN-KARABAKH.JPG",
-        "publishedAt": "2023-09-11T12:17:49Z",
-        "content": "(Reuters) - Tensions are running high again between Azerbaijan and Armenia over the territory of Nagorno-Karabakh, which has been the cause of two wars between them in the past three decades.\r\n Here … [+3972 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Freerepublic.com"
-        },
-        "author": "gatestoneinstitute.org",
-        "title": "Starvation: The invisible genocide weapon",
-        "description": "Several watchdog organizations... are accusing Azerbaijan of committing genocide against the 120,000 Armenians living in Nagorno-Karabakh. Historically known as Artsakh, this ancient Armenian region was brought under Azerbaijani rule in 2020. Modern day hosti…",
-        "url": "https://freerepublic.com/focus/f-news/4180198/posts",
-        "urlToImage": "https://images.unsplash.com/photo-1596464716004-48206c3f2306?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTc2OTR8MHwxfHNlYXJjaHwxfHxzdGFydmF0aW9ufGVufDB8MHx8fDE2OTQ1NDcxODl8MA&ixlib=rb-4.0.3&q=80&w=1080",
-        "publishedAt": "2023-09-05T14:38:55Z",
-        "content": "Skip to comments.\r\nStarvation: The invisible genocide weapongatestoneinstitute.org ^\r\n | 9/3/2023 0500 hrs\r\n | Raymond Ibrahim\r\nPosted on 09/05/2023 7:38:55 AM PDT by rktman\r\nSeveral watchdog organiz… [+2367 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "FRANCE 24 English"
-        },
-        "author": "Sorana Horsia",
-        "title": "Nagorno-Karabakh blockade: ‘In a couple of weeks there will be a mass famine’",
-        "description": "The only road connecting Armenia to the enclave of Nagorno-Karabakh – a breakaway region disputed for decades between Armenia and Azerbaijan – has been completely blocked by Azerbaijan since July. A resident describes the challenges the population faces in ob…",
-        "url": "https://observers.france24.com/en/asia-pacific/20230822-nagorno-karabakh-blockade-famine",
-        "urlToImage": "https://s.observers.france24.com/media/display/8dec764e-4036-11ee-92ef-005056a90284/w:1280/p:16x9/illustration-1.png",
-        "publishedAt": "2023-08-22T15:23:59Z",
-        "content": "The only road connecting Armenia to the enclave of Nagorno-Karabakh a breakaway region disputed for decades between Armenia and Azerbaijan has been completely blocked by Azerbaijan since July. A resi… [+7776 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "OilPrice.com"
-        },
-        "author": "OilPrice.com",
-        "title": "Canada Walks Diplomatic Tightrope In Caucasus",
-        "description": "Canada is raising its diplomatic profile in the Caucasus, as domestic and foreign policy considerations are pushing Ottawa into the thick of the Nagorno-Karabakh conflict.  Canadian Foreign Minister Mélanie Joly is expected to attend the opening of a Canadian…",
-        "url": "https://oilprice.com/Geopolitics/International/Canada-Walks-Diplomatic-Tightrope-In-Caucasus.html",
-        "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2023-08-28_qvljlktae4.jpg",
-        "publishedAt": "2023-08-28T18:00:00Z",
-        "content": "Following the latest BRICS meeting…\r\nThe 15th BRICS summit in…\r\nFrom August 22nd to 24th,…\r\nBy Eurasianet - Aug 28, 2023, 1:00 PM CDTCanada is raising its diplomatic profile in the Caucasus, as domes… [+5532 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "PRNewswire"
-        },
-        "author": null,
-        "title": "The Center for Truth and Justice Welcomes Report by Genocide Advisor Juan Mendez that Could Mobilize Nations to Prevent a Genocide in Nagorno-Karabakh",
-        "description": "Juan Mendez, the first UN advisor on Genocide prevention, issues \"early warning\" to prevent a genocide Mendez' report was requested by Armenia following finding by Luis Moreno Ocampo, ex-prosecutor of the International Criminal Court, that Azerbaijan's blocka…",
-        "url": "https://www.prnewswire.com/news-releases/the-center-for-truth-and-justice-welcomes-report-by-genocide-advisor-juan-mendez-that-could-mobilize-nations-to-prevent-a-genocide-in-nagorno-karabakh-301909220.html",
-        "urlToImage": "https://mma.prnewswire.com/media/2193596/1Center_for_Truth_Justice_Logo.jpg?p=facebook",
-        "publishedAt": "2023-08-24T12:26:00Z",
-        "content": "<ul><li>Juan Mendez, the first UN advisor on Genocide prevention, issues \"early warning\" to prevent a genocide</li><li>Mendez' report was requested by Armenia following finding by Luis Moreno Ocampo,… [+4578 chars]"
+        "title": "Ceasefire agreed in Nagorno-Karabakh after dozens killed in Azerbaijan military offensive",
+        "description": "A ceasefire has been agreed in the Nagorno-Karabakh region after dozens died in shelling, according to Azerbaijan and ethnic-Armenian officials.",
+        "url": "https://news.sky.com/story/ceasefire-agreed-in-nagorno-karabakh-after-dozens-killed-in-azerbaijan-military-offensive-12965428",
+        "urlToImage": "https://e3.365dm.com/23/09/1600x900/skynews-nagorno-karabakh-azerbaijan_6291368.jpg?20230920091644",
+        "publishedAt": "2023-09-20T08:06:00Z",
+        "content": "A ceasefire has been agreed in the Nagorno-Karabakh region after dozens died in shelling, according to Azerbaijan and ethnic-Armenian officials.\r\nAzerbaijan deployed troops and launched strikes on Tu… [+3553 chars]"
     },
     {
         "source": {
             "id": null,
             "name": "Catholicnewsagency.com"
         },
-        "author": "Zoe Romanowsky",
-        "title": "American professor who founded school in Artsakh says Christians there are starving",
-        "description": "Students on the first day of school in September 2021 at the Antonia Arslan Armenian-Italian Hamalir in Stepanakert, Artsakh. The school was “established in order to help the Artsakhtsi strengthen and rebuild” and offers a variety of courses, programs, and ed…",
-        "url": "https://www.catholicnewsagency.com/news/255313/american-professor-who-founded-school-in-artsakh-says-christians-there-are-starving",
-        "urlToImage": "https://www.catholicnewsagency.com/storage/image/kids-stepanakert.jpg?jpg",
-        "publishedAt": "2023-09-09T12:00:00Z",
-        "content": "After the war were talking November 2020 friendscontacted me and asked if the foundation could build a school there. And I said yes. My idea was to get Italian artisans to Artsakh to teach the beauty… [+4541 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Catholicnewsagency.com"
-        },
-        "author": "Tyler Arnold",
-        "title": "Lawmaker accuses Azerbaijan of ‘genocide,’ seeks answers on Biden administration’s plan",
-        "description": "In a Sept. 6, 2023, hearing, Rep. Chris Smith, R-New Jersey, accused the government of Azerbaijan of committing genocide against Armenian Christians in disputed territory in the country. / Credit: Office of Rep. Chris Smith\n\nWashington, D.C. Newsroom, Sep 7, …",
-        "url": "https://www.catholicnewsagency.com/news/255308/lawmaker-accuses-azerbaijan-of-genocide-seeks-answers-on-biden-admin-s-plan",
-        "urlToImage": "https://www.catholicnewsagency.com/storage/image/repchrissmith9.6.23.jpg?jpg",
-        "publishedAt": "2023-09-07T19:55:00Z",
-        "content": "Whatever we think of the goal of integration into Azerbaijan, what is totally and absolutely unacceptable is to achieve that through genocide, Smith said. The government of Azerbaijan has never worke… [+1376 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "PRNewswire"
-        },
-        "author": null,
-        "title": "Center for Truth and Justice Welcomes Ocampo's Congressional Testimony on Nagorno Karabakh Genocide",
-        "description": "Luis Moreno Ocampo, ex-prosecutor of the International Criminal Court, tells Congressional Human Rights Commission that Azerbaijan's blockade of disputed enclave is a genocide and the US is at risk of complicity US should compel Azerbaijan to end blockade imm…",
-        "url": "https://www.prnewswire.com/news-releases/center-for-truth-and-justice-welcomes-ocampos-congressional-testimony-on-nagorno-karabakh-genocide-301920624.html",
-        "urlToImage": "https://mma.prnewswire.com/media/2203787/1.jpg?p=facebook",
-        "publishedAt": "2023-09-07T12:44:00Z",
-        "content": "<ul><li>Luis Moreno Ocampo, ex-prosecutor of the International Criminal Court, tells Congressional Human Rights Commission that Azerbaijan's blockade of disputed enclave is a genocide and the US is a… [+3887 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "Rolling Stone"
-        },
-        "author": "Marlow Stern",
-        "title": "Kim Kardashian: My Plea to Joe Biden to Stop Another Armenian Genocide",
-        "description": "Kim Kardashian and Dr. Eric Esrailian write about how it’s time for America (and the world) to take action to protect Armenians from Azerbaijan",
-        "url": "https://www.rollingstone.com/politics/political-commentary/kim-kardashian-op-ed-joe-biden-armenian-genocide-azerbaijan-sanctions-1234820577/",
-        "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2023/09/20220408_Extra_0134_B_v3-1.jpg?w=1600&h=900&crop=1",
-        "publishedAt": "2023-09-08T15:00:00Z",
-        "content": "We are Armenian. We are the descendants of Armenian Genocide survivors, and we do not want to be talking about the recognition or commemoration of yet another genocide in the future. \r\nSince December… [+6042 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "NBC Bay Area"
-        },
-        "author": "NBC Bay Area staff",
-        "title": "Bay Area’s Armenian community rally in San Francisco",
-        "description": "Hundreds gathered in San Francisco Sunday to demand an end to an illegal blockade endangering Armenians.",
-        "url": "https://www.nbcbayarea.com/news/local/armenian-community-rally-san-francisco/3314542/",
-        "urlToImage": "https://media.nbcbayarea.com/2023/09/Armenian-rights-rally-in-San-Francisco-1.jpg?quality=85&strip=all&resize=1200%2C675",
-        "publishedAt": "2023-09-11T05:04:41Z",
-        "content": "Hundreds gathered in San Francisco Sunday to demand an end to an illegal blockade endangering Armenians.\r\nThe rally in Union Square Plaza was the latest of several protests since last December.\r\nThat… [+517 chars]"
-    },
-    {
-        "source": {
-            "id": null,
-            "name": "TMZ"
-        },
-        "author": "TMZ Staff",
-        "title": "Kim Kardashian Issues Plea To President Biden To Prevent Another Armenian Genocide",
-        "description": "Kim Kardashian is sending a message to President Joe Biden in the hopes of preventing another Armenian Genocide ... asking him to help cut ties with Azerbaijan. In a Rolling Stone piece released Friday by Kim and Dr. Eric Esrailian, she starts by…\n Permalink",
-        "url": "https://www.tmz.com/2023/09/08/kim-kardashian-plea-president-joe-biden-prevent-armenian-genocide/",
-        "urlToImage": "https://imagez.tmz.com/image/30/16by9/2023/09/08/303dc5c04f80446bbb351de87a10b309_xl.jpg",
-        "publishedAt": "2023-09-08T16:19:28Z",
-        "content": "Kim Kardashian is sending a message to President Joe Biden in the hopes of preventing another Armenian Genocide ... asking him to help cut ties with Azerbaijan.\r\nIn a Rolling Stone piece released Fri… [+1347 chars]"
+        "author": "Peter Pinedo",
+        "title": "Azerbaijan unleashes military strikes against Armenian Christians in Nagorno-Karabakh",
+        "description": "Armenians protest to urge the government to respond to the Azerbaijani military operation launched against the breakaway Nagorno-Karabakh region outside the government building in central Yerevan on Sept. 19, 2023. / Credit: Karenn Minasyan/AFP via Getty Imag…",
+        "url": "https://www.catholicnewsagency.com/news/255415/azerbaijan-unleashes-military-strikes-against-armenian-christians-in-nagorno-karabakh",
+        "urlToImage": "https://www.catholicnewsagency.com/storage/image/gettyimages-1676980232.jpg?jpg",
+        "publishedAt": "2023-09-19T18:20:00Z",
+        "content": "In 2020, with the backing of Turkey, Azerbaijan reignited the long-simmering conflict by invading Nagorno-Karabakh. A six-week conflict ended in Azerbaijan seizing control of Nagorno-Karabakh. \r\nThe … [+3048 chars]"
     }
 ]
