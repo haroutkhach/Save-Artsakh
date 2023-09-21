@@ -34,7 +34,7 @@ const Header = () => {
         <Link
           href="/"
           className="text-4xl font-extrabold py-5"
-          aria-label="NS Thingy"
+          aria-label="SA"
         >
          SA
         </Link>
