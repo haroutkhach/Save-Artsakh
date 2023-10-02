@@ -17,7 +17,7 @@ load_dotenv()
 NEWS_API_KEY = os.getenv("NEWS_API_KEY")
 urlCall = ('https://newsapi.org/v2/everything?'
        'q=Artsakh&'
-       'from=2023-08-30&' 
+       'from=2023-09-20&' 
        'language=en&'
        'sortBy=popularity&'
        f'apiKey={NEWS_API_KEY}')
